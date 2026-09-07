@@ -33,3 +33,7 @@ skills/
 ## Goal
 
 Keep only skills that are genuinely useful, reusable, and improve the way I work with AI.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
